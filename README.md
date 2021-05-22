@@ -1,5 +1,3 @@
-### Hi there 👋
-
 <!--
 **Mr0B/Mr0B** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -14,6 +12,8 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Press+Start+2p&center=true&lines=Hello+there%2C+fellow+traveler.)](https://git.io/typing-svg)
+
 [![Readme Quotes](https://quotes-github-readme.vercel.app/api?type=horizontal)](https://github.com/piyushsuthar/github-readme-quotes)
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Mr0B&show_icons=true&theme=dracula)
