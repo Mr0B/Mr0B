@@ -20,4 +20,4 @@ Here are some ideas to get you started:
 
 ### Credits:
 
-the top language card use this amzing repo https://github.com/anuraghazra/github-readme-stats. 
+the stats card and the top language card use this amazing repo https://github.com/anuraghazra/github-readme-stats. 
