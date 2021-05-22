@@ -14,10 +14,14 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+[![Readme Quotes](https://quotes-github-readme.vercel.app/api?type=horizontal)](https://github.com/piyushsuthar/github-readme-quotes)
+
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Mr0B&show_icons=true&theme=dracula)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Mr0B&layout=compact?count_private=true)](https://github.com/anuraghazra/github-readme-stats)
 
 ### Credits:
 
-the stats card and the top language card use this amazing repo https://github.com/anuraghazra/github-readme-stats. 
+the stats card and the top language card use this amazing repo: https://github.com/anuraghazra/github-readme-stats.
+
+the quote use this repo: https://github.com/PiyushSuthar/github-readme-quotes 
