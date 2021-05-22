@@ -12,7 +12,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Press+Start+2P&size=30&center=true&width=600&height=70&lines=Hello+there%2C+fellow+traveler.)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Press+Start+2P&size=25&width=500&height=60&lines=Hello+there%2C;++++fellow+traveler.)](https://git.io/typing-svg)
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Mr0B&show_icons=true&theme=dracula)
 
