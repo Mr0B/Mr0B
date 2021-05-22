@@ -14,6 +14,8 @@ Here are some ideas to get you started:
 -->
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Press+Start+2P&size=25&width=500&height=60&lines=Hello+there%2C;++++fellow+traveler.)](https://git.io/typing-svg)
 
+👷‍♂️This Place is Still a Work In Progress👷‍♀️
+
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Mr0B&show_icons=true&theme=dracula)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Mr0B&layout=compact?count_private=true)](https://github.com/anuraghazra/github-readme-stats)
@@ -22,4 +24,6 @@ Here are some ideas to get you started:
 
 the stats card and the top language card use this amazing repo: https://github.com/anuraghazra/github-readme-stats.
 
-the quote use this repo: https://github.com/PiyushSuthar/github-readme-quotes 
+the quote use this repo: https://github.com/PiyushSuthar/github-readme-quotes. 
+
+the typing svg make use of this repo: https://github.com/DenverCoder1/readme-typing-svg
