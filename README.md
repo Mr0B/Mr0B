@@ -24,6 +24,4 @@ Here are some ideas to get you started:
 
 the stats card and the top language card use this amazing repo: https://github.com/anuraghazra/github-readme-stats.
 
-the quote use this repo: https://github.com/PiyushSuthar/github-readme-quotes. 
-
 the typing svg make use of this repo: https://github.com/DenverCoder1/readme-typing-svg
