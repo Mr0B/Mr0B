@@ -20,8 +20,12 @@ Here are some ideas to get you started:
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Mr0B&layout=compact?count_private=true)](https://github.com/anuraghazra/github-readme-stats)
 
+[![trophy](https://github-profile-trophy.vercel.app/?username=Mr0B)](https://github.com/ryo-ma/github-profile-trophy)
+
 ### Credits:
 
 the stats card and the top language card use this amazing repo: https://github.com/anuraghazra/github-readme-stats.
 
 the typing svg make use of this repo: https://github.com/DenverCoder1/readme-typing-svg
+
+Awesome-Stat: https://github.com/ryo-ma/github-profile-trophy
